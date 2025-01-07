@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on dashboard web-apps
+I’m a Frontend Developer currently working on dashboard web-apps
 
 <!--
 **ramdanirfox/ramdanirfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
